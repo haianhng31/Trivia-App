@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "268536F4-0370-4783-B78A-4DD4D7A32AF0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C311404C-67EC-4222-B43F-E1DB32AF7D17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trivia/TriviaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "TriviaViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C311404C-67EC-4222-B43F-E1DB32AF7D17 - d602490c5a2feca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.didTapResetButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anhson/Documents/Coding%20projects/iOS%20CodePath/ios101-project4-trivia-starter-main/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "402">
+               </Location>
+               <Location
+                  uuid = "C311404C-67EC-4222-B43F-E1DB32AF7D17 - d602490c5a2feca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.didTapResetButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anhson/Documents/Coding%20projects/iOS%20CodePath/ios101-project4-trivia-starter-main/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  uuid = "C311404C-67EC-4222-B43F-E1DB32AF7D17 - b5b83346e61f8c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in Trivia.TriviaViewController.didTapResetButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anhson/Documents/Coding%20projects/iOS%20CodePath/ios101-project4-trivia-starter-main/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
